@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**rosanaalessandra/rosanaalessandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img height="150em" src= "https://github-readme-stats.vercel.app/api?username=rosanaalessandra&show_icons=true&theme=tokyonight"/>
 
-Here are some ideas to get you started:
+<img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rosanaalessandra&layout=compact"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contato
+
+<a herf="https://www.linkedin.com/in/rosana-dados/">
+    <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" align="center" height="50" widht="60">
+
+</a>
+
+
+## Linguagens
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" heigth="50" width="60">
+
+
+## Bibliotecas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  align="center" heigth="50" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"align="center" heigth="50" width="60">
+
+          
