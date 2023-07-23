@@ -5,7 +5,8 @@
 
 
 
-![image](https://github.com/rosanaalessandra/rosanaalessandra/assets/126611257/866b883c-0ab0-4565-a7d3-c0abbc9d8725)
+![image](https://github.com/rosanaalessandra/rosanaalessandra/assets/126611257/6c9bbed1-5348-44f2-87ee-536cdecd30e2)
+
 
 
 # Conecte-se comigo: 
